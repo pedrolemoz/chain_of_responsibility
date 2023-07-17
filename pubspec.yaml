@@ -1,0 +1,6 @@
+name: chain_of_responsibility
+description: Chain Of Responsibility
+version: 1.0.0
+
+environment:
+  sdk: ^3.0.6
